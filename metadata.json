@@ -1,0 +1,6 @@
+{
+  "name": "EventSpace",
+  "description": "A comprehensive virtual event platform with live stream simulation, interactive chat, automated email notifications, and real-time attendee engagement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
